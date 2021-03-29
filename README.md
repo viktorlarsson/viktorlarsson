@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm that full-stack employees that everyone is looking for. I've been working with computers since I was born and I will probably die in front of one. 
+Viktor Sarström, 34 years old based in Gothenburg and currently working at @evolvetechnology. I'm that full-stack employees that everyone is looking for. I've been working with computers since I was born and I will probably die in front of one. 
 
 - 16 years of experience
 - Team lead
