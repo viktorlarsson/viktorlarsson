@@ -9,7 +9,7 @@ Viktor Sarström, 34 years old based in Gothenburg and currently working at @evo
 - Love for visual details
 - Scaleable code in the back and front
 - Broad range of programmering languages
-- Experience from alot of different sectors
+- Experience from many different sectors
 - UX 
 - UI
 - TDD / BDD advocate
