@@ -1,16 +1,21 @@
 ### Hi there 👋
 
-<!--
-**viktorlarsson/viktorlarsson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm that full-stack employees that everyone is looking for. I've been working with computers since I was born and I will probably die in front of one. 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 16 years of experience
+- Team lead
+- Architect
+- Launched several startups
+- Love for visual details
+- Scaleable code in the back and front
+- Broad range of programmering languages
+- Experience from alot of different sectors
+- UX 
+- UI
+- TDD / BDD advocate
+- Sales
+- Recruitment
+- Build 2 companies from scratch, made two exits
+- Open source
+- Father of 4
+- Runner
