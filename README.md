@@ -15,7 +15,7 @@ Viktor Sarström, 34 years old based in Gothenburg and currently working at @evo
 - TDD / BDD advocate
 - Sales
 - Recruitment
-- Build 2 companies from scratch, made two exits
+- Build several companies and made successful exits
 - Open source
 - Lecturer
 - Father of 4
