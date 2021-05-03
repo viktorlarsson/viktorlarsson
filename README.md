@@ -15,7 +15,7 @@ Viktor Sarström, 34 years old based in Gothenburg and currently working at @afr
 - TDD / BDD advocate
 - Sales
 - Recruitment
-- Build several companies and made successful exits
+- Entrepreneur
 - Open source
 - Lecturer
 - Father of 4
