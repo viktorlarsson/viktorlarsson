@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Viktor Sarström, 34 years old based in Gothenburg and currently working at @afry. I'm that full-stack employees that everyone is looking for. I've been working with computers since I was born and I will probably die in front of one. I love breaking down walls at companies and building digital solutions in close collaboration with the entire team after they are down. 
+Viktor Sarström, 34 years old based in Gothenburg and currently working at @afry. I'm that full-stack employees that everyone is looking for. I've been working with computers since I was born and I will probably die in front of one. I love breaking down walls at companies and building digital solutions in close collaboration with the entire team. 
 
 Inequality in this business is a fact and we need to change this together.
 
