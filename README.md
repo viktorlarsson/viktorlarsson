@@ -5,7 +5,7 @@ I'm Viktor Sarström, a 38-year-old full-stack professional based in Gothenburg,
 ## My Expertise
 - **18 Years of Experience**
 - **10x Employee/Engineer**
-- Open source advocate
+- **Open source advocate**
 - **CTO & Team Lead**
 - **Architect**
 - **Startup Launches**
