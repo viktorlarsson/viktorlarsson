@@ -1,10 +1,11 @@
 ### Hi there 👋
 
-Viktor Sarström, 36 years old based in Gothenburg and currently working at Quartr. I'm that full-stack employees that everyone is looking for. I've been working with computers since I was born and I will probably die in front of one. I love breaking down walls at companies and building digital solutions in close collaboration with the entire team. 
+Viktor Sarström, 38 years old based in Gothenburg and currently working at Quartr. I'm that full-stack employees that everyone is looking for. I've been working with computers since I was born and I will probably die in front of one. I love breaking down walls at companies and building digital solutions in close collaboration with the entire team. 
 
 Inequality in this business is a fact and we need to change this together.
 
-- 16 years of experience
+- 18 years of experience
+- CTO
 - Team lead
 - Architect
 - Launched several startups
@@ -21,4 +22,4 @@ Inequality in this business is a fact and we need to change this together.
 - Open source
 - Lecturer
 - Father of 4
-- Runner
+- Runner / Iron man
