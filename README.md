@@ -3,7 +3,7 @@
 I'm Viktor Sarström, a 38-year-old full-stack professional based in Gothenburg, currently working at Quartr. With a lifelong passion for computers, I've been in the tech industry for 18 years, breaking barriers and building digital solutions in close collaboration with diverse teams.
 
 ## My Expertise
-- **18 Years of Experience**
+- **21 Years of Experience**
 - **10x Employee/Engineer**
 - **Open source advocate**
 - **CTO & Team Lead**
